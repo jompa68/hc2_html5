@@ -1,0 +1,6 @@
+var HC2IP = "192.168.0.xx"
+var HC2USERNAME = "user"
+var HC2PASSWORD = "pass"
+var PROXYPATH = "proxy_extra.php"
+var devicekoket = "55"
+var devicehallen = "8"
